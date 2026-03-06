@@ -1,40 +1,74 @@
-# 👋 Hi, I’m Amarachi  
-### Lawyer • Stay-At-Home Mom • Aspiring Python Developer
+# 👋 Hi, I'm Amarachi
 
-I started learning Python to make everyday life more organized — from grocery lists to meal planning to family routines. Over time, I realized how programming can also support my work as a lawyer through better workflows and simple automations. I’m learning steadily and building practical tools along the way.
+**Lawyer • Stay-At-Home Mom • Aspiring Python Developer**
 
----
+I started learning Python to make everyday life more organized — from grocery lists to meal planning and family routines. Over time, I realized how programming can also support my work as a lawyer through better workflows and simple automations.
 
-## 🔧 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I'm currently learning step-by-step and building practical tools along the way.
 
 ---
 
-## ✨ What I’m Working On  
-I’m focusing on small Python projects that improve daily life and strengthen my skills.  
-My first public project will be:
+## 🚀 What I'm Working On
 
-### 📦 Grocery List Manager *(Coming Soon)*  
-A simple tool to organize grocery lists, weekly menus, and home essentials.
+I'm building projects focused on:
 
----
-
-## 📚 Learning Path  
-- Structuring Python projects  
-- Working with files and automation  
-- Version control (Git & GitHub)  
-- Building practical tools from simple ideas  
+* Python development
+* Data science workflows
+* Natural language processing
+* Flask web applications
+* Automated testing with pytest
 
 ---
 
-## 🌟 About Me  
-I’m a lawyer who enjoys logical thinking and problem-solving. Learning Python helps me combine those strengths with creativity — at home and in my professional journey.
+## 📦 Current Projects
+
+### **python-basics-projects**
+
+A structured repository where I practice Python and experiment with real project workflows.
+
+Projects and experiments include:
+
+* NLP utilities
+* Flask app prototypes
+* Data science scripts
+* Automated testing with pytest
+* Small automation tools
 
 ---
 
-## 📫 Stay Connected  
-I’ll update my projects here as I grow my skills.  
-Feel free to follow along!
+## 🔧 Tools & Technologies
+
+* Python
+* Git & GitHub
+* PyCharm
+* Jupyter Notebook
+* Flask
+* Pytest
+
+---
+
+## 📚 Learning Focus
+
+I'm currently focusing on:
+
+* Writing clean, modular Python code
+* Structuring real Python projects
+* Building testable applications
+* Learning professional development workflows
+* Creating practical tools from simple ideas
+
+---
+
+## 🌟 About Me
+
+I'm a lawyer who enjoys logical thinking and problem-solving.
+Learning Python allows me to combine those strengths with creativity — both in my professional journey and everyday life.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Amaratsah
+
+I'll continue sharing projects here as I grow my skills. Feel free to follow along.
+
